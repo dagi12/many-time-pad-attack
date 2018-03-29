@@ -4,6 +4,12 @@ This code investigates the properties of the one time pad - specifically that it
 
 Given 10 ciphertexts encrypted using the same key, we can break the encryption, and generate all the plaintexts
 
+1. Rewrite and understand
+2. Zastosuj rady z crypto.stackexchange.com/questions/6020/many-time-pad-attack/6095
+3. Python 3
+4. Work on bytes
+5. Language booster
+
 # License
 
 MIT License
