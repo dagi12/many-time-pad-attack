@@ -19,13 +19,11 @@ XOR pairwise:
 
 ~~Rewrite and understand~~
 ~~2. Mini example~~
-<!-- str_xor(' sda','1234') =  '\x11AWU'
-str_xor('BS ,','1234') =  'saR\x18'
-str_xor('\x11AWU', 'saR\x18') = 'b \x05M' -->
-3. Rady z goo.gl/HvjcXp
+~~3. Rady z goo.gl/HvjcXp
  - Those two cases should be pretty easy to tell apart. Furthermore, in the first case, you can easily get the actual characters at that position in all the plaintexts just by flipping the case of all the letters you obtained by XORing the ciphertexts together.
  - Fill in letters
- - debug 4,5 -> thm, the
+ - debug 4,5 -> thm, the~~
 4. Python 3
 5. Work on bytes
 6. Language booster
+7. Polskie znaki
